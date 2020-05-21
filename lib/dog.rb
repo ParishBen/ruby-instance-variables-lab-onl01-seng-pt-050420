@@ -1,7 +1,8 @@
 class Dog 
- def name=(lassie)
+ def name(lassie)
    @name=lassie
   end
+ @name=name 
   def name
     @name
   end
